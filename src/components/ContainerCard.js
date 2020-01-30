@@ -1,4 +1,5 @@
 import React from "react";
+import img from "../android-chrome-512x512.png";
 
 class ContainerCard extends React.Component {
   state = { time: null, date: null };
@@ -20,6 +21,12 @@ class ContainerCard extends React.Component {
             <p>
               Date: <b>{this.state.date}</b>
             </p>
+            <img
+              className="ui image"
+              style={{ width: 50, height: 50, paddingBottom: 10 }}
+              src={img}
+              alt="Senior Tube"
+            />
             <p>
               Current Time: <b>{this.state.time}</b>
             </p>

@@ -1,10 +1,13 @@
 import React from "react";
+import logo from "../android-chrome-512x512.png";
 
 const VideoDetail = ({ selectedVideo }) => {
   if (!selectedVideo) {
     return (
       <div className="null-video ">
         <div className="ui active text loader">
+          <img className="logo" src={logo} alt="senior tube" />
+          <br />
           Waiting for you to make a search
         </div>
       </div>
