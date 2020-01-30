@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/SeniorTube/static/css/main.81a4924a.chunk.css",
+    "main.js": "/SeniorTube/static/js/main.040a9c23.chunk.js",
+    "main.js.map": "/SeniorTube/static/js/main.040a9c23.chunk.js.map",
+    "runtime-main.js": "/SeniorTube/static/js/runtime-main.aec31f95.js",
+    "runtime-main.js.map": "/SeniorTube/static/js/runtime-main.aec31f95.js.map",
+    "static/js/2.1e6e18f1.chunk.js": "/SeniorTube/static/js/2.1e6e18f1.chunk.js",
+    "static/js/2.1e6e18f1.chunk.js.map": "/SeniorTube/static/js/2.1e6e18f1.chunk.js.map",
+    "index.html": "/SeniorTube/index.html",
+    "precache-manifest.e719000bf5746760fc564f3ac4e539f8.js": "/SeniorTube/precache-manifest.e719000bf5746760fc564f3ac4e539f8.js",
+    "service-worker.js": "/SeniorTube/service-worker.js",
+    "static/css/main.81a4924a.chunk.css.map": "/SeniorTube/static/css/main.81a4924a.chunk.css.map",
+    "static/js/2.1e6e18f1.chunk.js.LICENSE": "/SeniorTube/static/js/2.1e6e18f1.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aec31f95.js",
+    "static/js/2.1e6e18f1.chunk.js",
+    "static/css/main.81a4924a.chunk.css",
+    "static/js/main.040a9c23.chunk.js"
+  ]
+}
